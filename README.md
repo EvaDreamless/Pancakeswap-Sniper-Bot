@@ -1,7 +1,8 @@
 # Pancakeswap-Sniper-Bot
 A free sniper bot built to work with PancakeSwap: Router V2
 
-How to use:
+# How to use:
+_____________
 
 Download zip archive and extract bot to a preferred folder
 
@@ -22,7 +23,8 @@ How to run
 
 Edit the config.ini file and then run AbstractSniper.exe
 
-Features:
+# Features:
+------------
 Custom sell/buy price, stop loss, slippage, gas.
 
 Buys token as soon as liquidity is provided
