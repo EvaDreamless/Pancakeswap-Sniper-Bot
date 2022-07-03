@@ -16,9 +16,7 @@ TRADEMODE: true, True if you want to activate, it otherwise false
 4. Open AbstractSniper.exe
 
 
-How to run
 
-Edit the config.ini file and then run AbstractSniper.exe
 
 # Features:
 ------------
