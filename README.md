@@ -38,6 +38,6 @@ WBNB approval
 
 
 
-PS
-This is really simple but fully working snipe bot. With it help, you will be able to snipe any token on the Pancakeswap platform faster than any human possible.
+
+
 
