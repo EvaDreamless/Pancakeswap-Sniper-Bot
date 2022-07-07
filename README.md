@@ -1,5 +1,7 @@
-# Virustotal Check: https://www.virustotal.com/gui/file/413e73234f66434068651fddcb283efd3982d3849f8249aa8cc96343e3c20b27 AbstractSniper | Pancakeswap
+# AbstractSniper | Pancakeswap
 ------------  
+  Virustotal Check: https://www.virustotal.com/gui/file/413e73234f66434068651fddcb283efd3982d3849f8249aa8cc96343e3c20b27
+
   A free sniper bot built to work with Pancakeswap. Honeypot/rug checker built in. Bot allows you to compete with other trading bots when buying a token on PancakeSwap. Its faster than traditional bots because it watches the txpool/mempool where transactions are still "pending" on the BSC network. It will watch for when liquidity is added as a pending transaction and immediately submit your order, so that hopefully you get in right after liquidity is added and before everyone else.
 # How to use:
 _____________
